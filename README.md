@@ -18,21 +18,22 @@ Here are some ideas to get you started:
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0001-two-sum) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
