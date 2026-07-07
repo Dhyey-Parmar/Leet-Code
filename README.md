@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
