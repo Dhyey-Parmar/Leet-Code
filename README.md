@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -53,6 +54,7 @@ Here are some ideas to get you started:
 | [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -76,6 +78,7 @@ Here are some ideas to get you started:
 | [0007-reverse-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0231-power-of-two](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
@@ -85,6 +88,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +99,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1288-remove-covered-intervals/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -112,6 +117,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
