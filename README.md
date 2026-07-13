@@ -134,4 +134,8 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
