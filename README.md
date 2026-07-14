@@ -88,6 +88,7 @@ Here are some ideas to get you started:
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
