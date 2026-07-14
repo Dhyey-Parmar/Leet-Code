@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 | [0007-reverse-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0231-power-of-two](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0231-power-of-two/) | Easy |
+| [0263-ugly-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
