@@ -85,6 +85,7 @@ Here are some ideas to get you started:
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -150,4 +151,8 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1291-sequential-digits/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
