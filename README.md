@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3798-largest-even-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3798-largest-even-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
