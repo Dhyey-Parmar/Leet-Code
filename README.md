@@ -115,6 +115,7 @@ Here are some ideas to get you started:
 | [0035-search-insert-position](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0704-binary-search/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -212,4 +213,8 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2296-design-a-text-editor/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
