@@ -80,6 +80,7 @@ Here are some ideas to get you started:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0344-reverse-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
@@ -149,6 +150,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -184,6 +186,7 @@ Here are some ideas to get you started:
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2296-design-a-text-editor/) | Hard |
 ## Monotonic Stack
@@ -197,6 +200,7 @@ Here are some ideas to get you started:
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2296-design-a-text-editor/) | Hard |
 ## Design
 | Problem Name | Difficulty |
