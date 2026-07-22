@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 | [0162-find-peak-element](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0162-find-peak-element/) | Medium |
 | [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0704-binary-search/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -114,6 +115,7 @@ Here are some ideas to get you started:
 | [0035-search-insert-position](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0704-binary-search/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
