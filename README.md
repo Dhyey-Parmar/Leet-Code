@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 | [0162-find-peak-element](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0162-find-peak-element/) | Medium |
 | [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0881-boats-to-save-people/) | Medium |
@@ -111,6 +112,7 @@ Here are some ideas to get you started:
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -141,6 +143,7 @@ Here are some ideas to get you started:
 | [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0881-boats-to-save-people/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
