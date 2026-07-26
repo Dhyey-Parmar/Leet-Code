@@ -116,6 +116,7 @@ Here are some ideas to get you started:
 | [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [2652-sum-multiples](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2652-sum-multiples/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
