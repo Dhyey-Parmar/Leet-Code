@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 | [0387-first-unique-character-in-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0520-detect-capital/) | Easy |
+| [0709-to-lower-case](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0709-to-lower-case/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2296-design-a-text-editor/) | Hard |
