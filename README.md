@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 | [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0242-valid-anagram](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
+| [0273-integer-to-english-words](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0273-integer-to-english-words/) | Hard |
 | [0344-reverse-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -118,6 +119,7 @@ Here are some ideas to get you started:
 | [0231-power-of-two](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
+| [0273-integer-to-english-words](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0273-integer-to-english-words/) | Hard |
 | [0412-fizz-buzz](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
@@ -189,6 +191,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0273-integer-to-english-words](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0273-integer-to-english-words/) | Hard |
 | [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
