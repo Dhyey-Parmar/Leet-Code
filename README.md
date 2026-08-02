@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
+| [0877-stone-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0881-boats-to-save-people/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -120,6 +121,7 @@ Here are some ideas to get you started:
 | [0507-perfect-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2652-sum-multiples](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2652-sum-multiples/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -146,6 +148,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0877-stone-game/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,4 +258,8 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
