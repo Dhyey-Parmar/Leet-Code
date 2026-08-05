@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 | [0035-search-insert-position](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0056-merge-intervals/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0162-find-peak-element/) | Medium |
@@ -84,6 +85,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
@@ -288,4 +290,8 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
