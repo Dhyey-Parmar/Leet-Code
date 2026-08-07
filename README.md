@@ -71,6 +71,7 @@ Here are some ideas to get you started:
 | [0387-first-unique-character-in-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0520-detect-capital/) | Easy |
+| [0686-repeated-string-match](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0686-repeated-string-match/) | Medium |
 | [0709-to-lower-case](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0709-to-lower-case/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -187,6 +188,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0686-repeated-string-match](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0686-repeated-string-match/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,4 +298,16 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0686-repeated-string-match](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0686-repeated-string-match/) | Medium |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0686-repeated-string-match](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0686-repeated-string-match/) | Medium |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0686-repeated-string-match](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0686-repeated-string-match/) | Medium |
 <!---LeetCode Topics End-->
