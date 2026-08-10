@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 | [1394-find-lucky-integer-in-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
@@ -186,6 +187,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## String Matching
