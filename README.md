@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0027-remove-element/) | Easy |
@@ -155,6 +156,7 @@ Here are some ideas to get you started:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0035-search-insert-position/) | Easy |
@@ -296,6 +298,7 @@ Here are some ideas to get you started:
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
