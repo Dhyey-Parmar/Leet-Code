@@ -109,6 +109,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0011-container-with-most-water/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -271,6 +272,7 @@ Here are some ideas to get you started:
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0234-palindrome-linked-list/) | Easy |
