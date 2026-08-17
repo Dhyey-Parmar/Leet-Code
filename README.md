@@ -152,6 +152,7 @@ Here are some ideas to get you started:
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2029-stone-game-ix](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
 | [2652-sum-multiples](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2652-sum-multiples/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -220,6 +221,7 @@ Here are some ideas to get you started:
 | [0136-single-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Recursion
