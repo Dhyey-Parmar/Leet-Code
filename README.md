@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2540-minimum-common-value](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -108,6 +109,7 @@ Here are some ideas to get you started:
 | [0383-ransom-note](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2540-minimum-common-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -129,6 +131,7 @@ Here are some ideas to get you started:
 | [0344-reverse-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0881-boats-to-save-people/) | Medium |
+| [2540-minimum-common-value](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2540-minimum-common-value/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -184,6 +187,7 @@ Here are some ideas to get you started:
 | [0278-first-bad-version](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0704-binary-search/) | Easy |
+| [2540-minimum-common-value](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2540-minimum-common-value/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
