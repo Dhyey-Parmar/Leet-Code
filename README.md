@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 | [0283-move-zeroes](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0283-move-zeroes/) | Easy |
 | [0605-can-place-flowers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0682-baseball-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
 | [0877-stone-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0877-stone-game/) | Medium |
@@ -263,6 +264,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0412-fizz-buzz/) | Easy |
+| [0682-baseball-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0682-baseball-game/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1260-shift-2d-grid/) | Easy |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2296-design-a-text-editor/) | Hard |
@@ -295,6 +297,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0682-baseball-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
