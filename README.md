@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 | [2706-buy-two-chocolates](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -273,6 +274,7 @@ Here are some ideas to get you started:
 | [1535-find-the-winner-of-an-array-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2296-design-a-text-editor/) | Hard |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Queue
