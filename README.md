@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 | [0238-product-of-array-except-self](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0283-move-zeroes/) | Easy |
+| [0500-keyboard-row](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0500-keyboard-row/) | Easy |
 | [0605-can-place-flowers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0682-baseball-game/) | Easy |
@@ -91,6 +92,7 @@ Here are some ideas to get you started:
 | [0383-ransom-note](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0412-fizz-buzz/) | Easy |
+| [0500-keyboard-row](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0500-keyboard-row/) | Easy |
 | [0520-detect-capital](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0520-detect-capital/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0686-repeated-string-match](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0686-repeated-string-match/) | Medium |
@@ -117,6 +119,7 @@ Here are some ideas to get you started:
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0500-keyboard-row](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0500-keyboard-row/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
