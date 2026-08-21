@@ -124,6 +124,7 @@ Here are some ideas to get you started:
 | [1331-rank-transform-of-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1399-count-largest-group](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1399-count-largest-group/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2540-minimum-common-value](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2540-minimum-common-value/) | Easy |
@@ -181,6 +182,7 @@ Here are some ideas to get you started:
 | [0877-stone-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1399-count-largest-group](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1399-count-largest-group/) | Easy |
 | [1563-stone-game-v](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
 | [2652-sum-multiples](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2652-sum-multiples/) | Easy |
@@ -295,6 +297,7 @@ Here are some ideas to get you started:
 | [0383-ransom-note](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1399-count-largest-group](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1399-count-largest-group/) | Easy |
 | [2029-stone-game-ix](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2833-furthest-point-from-origin/) | Easy |
