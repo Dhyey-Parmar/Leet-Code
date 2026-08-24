@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 | [1386-cinema-seat-allocation](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1470-shuffle-the-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1563-stone-game-v](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1563-stone-game-v/) | Hard |
