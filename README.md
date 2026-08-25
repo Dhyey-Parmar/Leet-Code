@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -136,6 +137,7 @@ Here are some ideas to get you started:
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
