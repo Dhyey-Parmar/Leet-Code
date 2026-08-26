@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 | [0682-baseball-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
+| [0804-unique-morse-code-words](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0877-stone-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0881-boats-to-save-people/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1260-shift-2d-grid/) | Easy |
@@ -101,6 +102,7 @@ Here are some ideas to get you started:
 | [0551-student-attendance-record-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0686-repeated-string-match](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0686-repeated-string-match/) | Medium |
 | [0709-to-lower-case](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0709-to-lower-case/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1927-sum-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -128,6 +130,7 @@ Here are some ideas to get you started:
 | [0383-ransom-note](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0500-keyboard-row](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0500-keyboard-row/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
