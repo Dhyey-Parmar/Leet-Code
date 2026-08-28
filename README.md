@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0035-search-insert-position/) | Easy |
+| [0049-group-anagrams](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0056-merge-intervals/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -91,6 +92,7 @@ Here are some ideas to get you started:
 | [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 | [0273-integer-to-english-words](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0273-integer-to-english-words/) | Hard |
 | [0344-reverse-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0344-reverse-string/) | Easy |
@@ -123,6 +125,7 @@ Here are some ideas to get you started:
 | [0001-two-sum](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0049-group-anagrams](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
@@ -235,6 +238,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
