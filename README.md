@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 | [0035-search-insert-position](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0056-merge-intervals/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0135-candy/) | Hard |
@@ -226,6 +227,7 @@ Here are some ideas to get you started:
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0278-first-bad-version/) | Easy |
