@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2126-destroying-asteroids/) | Medium |
@@ -178,6 +179,7 @@ Here are some ideas to get you started:
 | [1927-sum-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1927-sum-game/) | Medium |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2706-buy-two-chocolates/) | Easy |
