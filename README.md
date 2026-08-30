@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 | [0704-binary-search](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0806-number-of-lines-to-write-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0877-stone-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0881-boats-to-save-people/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1260-shift-2d-grid/) | Easy |
@@ -107,6 +108,7 @@ Here are some ideas to get you started:
 | [0686-repeated-string-match](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0686-repeated-string-match/) | Medium |
 | [0709-to-lower-case](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0709-to-lower-case/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0806-number-of-lines-to-write-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1927-sum-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
