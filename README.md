@@ -90,6 +90,7 @@ Here are some ideas to get you started:
 | [3731-find-missing-elements](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +277,7 @@ Here are some ideas to get you started:
 | [2574-left-and-right-sum-differences](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2615-sum-of-distances/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
