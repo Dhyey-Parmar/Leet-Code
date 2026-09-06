@@ -120,6 +120,7 @@ Here are some ideas to get you started:
 | [2833-furthest-point-from-origin](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3019-number-of-changing-keys](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3330-find-the-original-typed-string-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3330-find-the-original-typed-string-i/) | Easy |
