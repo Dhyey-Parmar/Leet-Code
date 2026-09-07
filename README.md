@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 | [0001-two-sum](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0027-remove-element/) | Easy |
@@ -96,6 +97,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
@@ -460,4 +462,8 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
