@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 | [0739-daily-temperatures](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [0860-lemonade-change](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0860-lemonade-change/) | Easy |
 | [0877-stone-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0881-boats-to-save-people/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1260-shift-2d-grid/) | Easy |
@@ -191,6 +192,7 @@ Here are some ideas to get you started:
 | [0011-container-with-most-water](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0011-container-with-most-water/) | Medium |
 | [0135-candy](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0135-candy/) | Hard |
 | [0605-can-place-flowers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0605-can-place-flowers/) | Easy |
+| [0860-lemonade-change](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0881-boats-to-save-people/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1927-sum-game/) | Medium |
