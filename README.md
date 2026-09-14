@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 | [0500-keyboard-row](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0500-keyboard-row/) | Easy |
 | [0605-can-place-flowers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
