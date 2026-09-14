@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0806-number-of-lines-to-write-string/) | Easy |
@@ -294,6 +295,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0724-find-pivot-index/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1732-find-the-highest-altitude/) | Easy |
