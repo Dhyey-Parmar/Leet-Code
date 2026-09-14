@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 | [0238-product-of-array-except-self](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0500-keyboard-row](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0500-keyboard-row/) | Easy |
 | [0605-can-place-flowers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
