@@ -142,6 +142,7 @@ Here are some ideas to get you started:
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3330-find-the-original-typed-string-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3330-find-the-original-typed-string-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3798-largest-even-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3798-largest-even-number/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3931-check-adjacent-digit-differences/) | Easy |
@@ -359,6 +360,7 @@ Here are some ideas to get you started:
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2296-design-a-text-editor/) | Hard |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Queue
