@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 | [1480-running-sum-of-1d-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1563-stone-game-v](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1563-stone-game-v/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -167,6 +168,7 @@ Here are some ideas to get you started:
 | [1394-find-lucky-integer-in-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1399-count-largest-group](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1399-count-largest-group/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2540-minimum-common-value](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2540-minimum-common-value/) | Easy |
@@ -273,6 +275,7 @@ Here are some ideas to get you started:
 | [0374-guess-number-higher-or-lower](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0704-binary-search/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2540-minimum-common-value](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2540-minimum-common-value/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -314,6 +317,7 @@ Here are some ideas to get you started:
 | [0724-find-pivot-index](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0724-find-pivot-index/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2121-intervals-between-identical-elements/) | Medium |
@@ -484,6 +488,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
