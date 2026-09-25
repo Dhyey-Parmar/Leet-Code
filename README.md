@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 | [0238-product-of-array-except-self](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0283-move-zeroes/) | Easy |
+| [0414-third-maximum-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0500-keyboard-row](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0500-keyboard-row/) | Easy |
 | [0605-can-place-flowers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0605-can-place-flowers/) | Easy |
@@ -297,6 +298,7 @@ Here are some ideas to get you started:
 | [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0977-squares-of-a-sorted-array/) | Easy |
