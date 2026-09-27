@@ -87,6 +87,7 @@ Here are some ideas to get you started:
 | [2126-destroying-asteroids](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2295-replace-elements-in-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2615-sum-of-distances/) | Medium |
@@ -173,6 +174,7 @@ Here are some ideas to get you started:
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2295-replace-elements-in-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2615-sum-of-distances/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -367,6 +369,7 @@ Here are some ideas to get you started:
 | [1260-shift-2d-grid](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1260-shift-2d-grid/) | Easy |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2295-replace-elements-in-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2296-design-a-text-editor/) | Hard |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
 | [2974-minimum-number-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
