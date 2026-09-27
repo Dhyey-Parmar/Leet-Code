@@ -73,6 +73,7 @@ Here are some ideas to get you started:
 | [1563-stone-game-v](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1720-decode-xored-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -344,6 +345,7 @@ Here are some ideas to get you started:
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1720-decode-xored-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1720-decode-xored-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
