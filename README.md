@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 | [0162-find-peak-element](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0162-find-peak-element/) | Medium |
 | [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0260-single-number-iii](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0414-third-maximum-number/) | Easy |
@@ -343,6 +344,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0136-single-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1386-cinema-seat-allocation/) | Medium |
