@@ -89,6 +89,7 @@ Here are some ideas to get you started:
 | [2121-intervals-between-identical-elements](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2295-replace-elements-in-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -318,6 +319,7 @@ Here are some ideas to get you started:
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2974-minimum-number-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -401,6 +403,7 @@ Here are some ideas to get you started:
 | [1394-find-lucky-integer-in-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1399-count-largest-group](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1399-count-largest-group/) | Easy |
 | [2029-stone-game-ix](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Enumeration
