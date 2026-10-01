@@ -119,6 +119,7 @@ Here are some ideas to get you started:
 | [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0125-valid-palindrome/) | Easy |
@@ -420,6 +421,7 @@ Here are some ideas to get you started:
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
@@ -530,6 +532,7 @@ Here are some ideas to get you started:
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Backtracking
