@@ -256,6 +256,7 @@ Here are some ideas to get you started:
 | [1360-number-of-days-between-two-dates](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1399-count-largest-group](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1399-count-largest-group/) | Easy |
 | [1563-stone-game-v](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1563-stone-game-v/) | Hard |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1927-sum-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1927-sum-game/) | Medium |
 | [1952-three-divisors](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1952-three-divisors/) | Easy |
