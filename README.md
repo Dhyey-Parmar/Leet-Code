@@ -137,6 +137,7 @@ Here are some ideas to get you started:
 | [0678-valid-parenthesis-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0686-repeated-string-match](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0686-repeated-string-match/) | Medium |
 | [0709-to-lower-case](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0709-to-lower-case/) | Easy |
+| [0796-rotate-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0796-rotate-string/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -354,6 +355,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0686-repeated-string-match](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0686-repeated-string-match/) | Medium |
+| [0796-rotate-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0796-rotate-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
