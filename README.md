@@ -103,6 +103,7 @@ Here are some ideas to get you started:
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -268,6 +269,7 @@ Here are some ideas to get you started:
 | [2652-sum-multiples](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2652-sum-multiples/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3536-maximum-product-of-two-digits/) | Easy |
