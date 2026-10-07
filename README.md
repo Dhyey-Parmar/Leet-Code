@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 | [1720-decode-xored-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -263,6 +264,7 @@ Here are some ideas to get you started:
 | [1563-stone-game-v](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1927-sum-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1927-sum-game/) | Medium |
 | [1952-three-divisors](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1952-three-divisors/) | Easy |
 | [2029-stone-game-ix](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
