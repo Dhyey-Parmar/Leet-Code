@@ -142,6 +142,7 @@ Here are some ideas to get you started:
 | [0796-rotate-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0796-rotate-string/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1360-number-of-days-between-two-dates](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1446-consecutive-characters](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1446-consecutive-characters/) | Easy |
@@ -441,6 +442,7 @@ Here are some ideas to get you started:
 | [0678-valid-parenthesis-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
@@ -550,6 +552,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Backtracking
