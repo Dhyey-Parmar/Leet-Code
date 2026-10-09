@@ -146,6 +146,7 @@ Here are some ideas to get you started:
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1360-number-of-days-between-two-dates](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1446-consecutive-characters](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1446-consecutive-characters/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1927-sum-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1927-sum-game/) | Medium |
@@ -232,6 +233,7 @@ Here are some ideas to get you started:
 | [0860-lemonade-change](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0881-boats-to-save-people/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1927-sum-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1927-sum-game/) | Medium |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
@@ -444,6 +446,7 @@ Here are some ideas to get you started:
 | [0739-daily-temperatures](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2296-design-a-text-editor/) | Hard |
@@ -554,6 +557,7 @@ Here are some ideas to get you started:
 | [0678-valid-parenthesis-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
