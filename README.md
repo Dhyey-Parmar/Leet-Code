@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 | [0135-candy](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0162-find-peak-element/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -300,6 +301,7 @@ Here are some ideas to get you started:
 | [0035-search-insert-position](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0162-find-peak-element/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0374-guess-number-higher-or-lower/) | Easy |
@@ -347,6 +349,7 @@ Here are some ideas to get you started:
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0724-find-pivot-index/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -534,6 +537,7 @@ Here are some ideas to get you started:
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
