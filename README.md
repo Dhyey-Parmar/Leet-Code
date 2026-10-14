@@ -248,6 +248,7 @@ Here are some ideas to get you started:
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2706-buy-two-chocolates](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -287,6 +288,7 @@ Here are some ideas to get you started:
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
