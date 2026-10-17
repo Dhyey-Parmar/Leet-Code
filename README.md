@@ -280,6 +280,7 @@ Here are some ideas to get you started:
 | [1952-three-divisors](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1952-three-divisors/) | Easy |
 | [2029-stone-game-ix](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
 | [2235-add-two-integers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2235-add-two-integers/) | Easy |
+| [2469-convert-the-temperature](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2469-convert-the-temperature/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2652-sum-multiples](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2652-sum-multiples/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
