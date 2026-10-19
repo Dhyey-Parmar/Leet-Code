@@ -87,6 +87,7 @@ Here are some ideas to get you started:
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2121-intervals-between-identical-elements/) | Medium |
@@ -317,6 +318,7 @@ Here are some ideas to get you started:
 | [0704-binary-search](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0704-binary-search/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2540-minimum-common-value/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -346,6 +348,7 @@ Here are some ideas to get you started:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
