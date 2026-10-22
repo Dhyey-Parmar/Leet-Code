@@ -118,6 +118,7 @@ Here are some ideas to get you started:
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3731-find-missing-elements/) | Easy |
+| [3833-count-dominant-indices](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3833-count-dominant-indices/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -452,6 +453,7 @@ Here are some ideas to get you started:
 | [1952-three-divisors](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1952-three-divisors/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3833-count-dominant-indices](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3833-count-dominant-indices/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
