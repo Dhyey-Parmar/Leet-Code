@@ -102,6 +102,7 @@ Here are some ideas to get you started:
 | [2615-sum-of-distances](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2615-sum-of-distances/) | Medium |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2708-maximum-strength-of-a-group](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
@@ -252,6 +253,7 @@ Here are some ideas to get you started:
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2706-buy-two-chocolates](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2708-maximum-strength-of-a-group](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -333,6 +335,7 @@ Here are some ideas to get you started:
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2708-maximum-strength-of-a-group](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,6 +359,7 @@ Here are some ideas to get you started:
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2708-maximum-strength-of-a-group](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [2974-minimum-number-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -398,6 +402,7 @@ Here are some ideas to get you started:
 | [1720-decode-xored-array](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1720-decode-xored-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [2708-maximum-strength-of-a-group](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Recursion
@@ -451,6 +456,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1291-sequential-digits/) | Medium |
 | [1952-three-divisors](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1952-three-divisors/) | Easy |
+| [2708-maximum-strength-of-a-group](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3833-count-dominant-indices](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3833-count-dominant-indices/) | Easy |
@@ -589,6 +595,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [2708-maximum-strength-of-a-group](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
