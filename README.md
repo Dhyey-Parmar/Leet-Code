@@ -161,6 +161,7 @@ Here are some ideas to get you started:
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2296-design-a-text-editor/) | Hard |
+| [2409-count-days-spent-together](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2833-furthest-point-from-origin](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -286,6 +287,7 @@ Here are some ideas to get you started:
 | [1952-three-divisors](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1952-three-divisors/) | Easy |
 | [2029-stone-game-ix](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
 | [2235-add-two-integers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2235-add-two-integers/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2469-convert-the-temperature/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2652-sum-multiples](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2652-sum-multiples/) | Easy |
