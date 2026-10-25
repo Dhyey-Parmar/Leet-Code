@@ -155,6 +155,7 @@ Here are some ideas to get you started:
 | [1360-number-of-days-between-two-dates](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1446-consecutive-characters](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1446-consecutive-characters/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1576-replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1927-sum-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1927-sum-game/) | Medium |
