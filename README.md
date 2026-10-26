@@ -109,6 +109,7 @@ Here are some ideas to get you started:
 | [2974-minimum-number-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -258,6 +259,7 @@ Here are some ideas to get you started:
 | [2708-maximum-strength-of-a-group](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Math
@@ -366,6 +368,7 @@ Here are some ideas to get you started:
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [2974-minimum-number-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3731-find-missing-elements/) | Easy |
