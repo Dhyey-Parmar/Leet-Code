@@ -109,6 +109,7 @@ Here are some ideas to get you started:
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [2974-minimum-number-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
@@ -210,6 +211,7 @@ Here are some ideas to get you started:
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -459,6 +461,7 @@ Here are some ideas to get you started:
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
