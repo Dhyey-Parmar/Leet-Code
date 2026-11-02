@@ -164,6 +164,7 @@ Here are some ideas to get you started:
 | [1927-sum-game](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2129-capitalize-the-title](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2129-capitalize-the-title/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2296-design-a-text-editor/) | Hard |
 | [2409-count-days-spent-together](https://github.com/Dhyey-Parmar/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
